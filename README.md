@@ -1,5 +1,3 @@
 # qt-test-application
 
-
-
-
+-
